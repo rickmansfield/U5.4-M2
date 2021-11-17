@@ -2,7 +2,7 @@
 
 ## [CoLoab Link](https://colab.research.google.com/drive/1vwBq_-1gWnb5Gl_x4wUvqkLC4c34jhhs?usp=sharing)
 
-## [Video Link]()
+## [Video Link](https://www.youtube.com/watch?v=Yg_8bmULOkA)
 
 ## Graph Traversals
 
